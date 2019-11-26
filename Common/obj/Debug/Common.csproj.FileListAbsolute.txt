@@ -1,0 +1,4 @@
+C:\Projects\BotFactory\Common\bin\Debug\Common.dll
+C:\Projects\BotFactory\Common\bin\Debug\Common.pdb
+C:\Projects\BotFactory\Common\obj\Debug\Common.dll
+C:\Projects\BotFactory\Common\obj\Debug\Common.pdb

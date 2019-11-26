@@ -1,0 +1,7 @@
+C:\Projects\BotFactory\Models\bin\Debug\Models.dll
+C:\Projects\BotFactory\Models\bin\Debug\Models.pdb
+C:\Projects\BotFactory\Models\bin\Debug\Common.dll
+C:\Projects\BotFactory\Models\bin\Debug\Common.pdb
+C:\Projects\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\Models\obj\Debug\Models.dll
+C:\Projects\BotFactory\Models\obj\Debug\Models.pdb
